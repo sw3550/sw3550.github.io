@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://swei.Github.io</id>
     <title>ShiyaoWei</title>
-    <updated>2022-05-01T15:27:52.693Z</updated>
+    <updated>2022-05-01T15:32:37.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://swei.Github.io"/>
     <link rel="self" href="https://swei.Github.io/atom.xml"/>
@@ -11,57 +11,60 @@
     <icon>https://swei.Github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, ShiyaoWei</rights>
     <entry>
-        <title type="html"><![CDATA[ Learning Theories]]></title>
-        <id>https://swei.Github.io/post/learning-theories/</id>
-        <link href="https://swei.Github.io/post/learning-theories/">
+        <title type="html"><![CDATA[好用/有意思的网站/工具]]></title>
+        <id>https://swei.Github.io/post/hao-yong-you-yi-si-de-wang-zhan-gong-ju/</id>
+        <link href="https://swei.Github.io/post/hao-yong-you-yi-si-de-wang-zhan-gong-ju/">
         </link>
-        <updated>2022-05-01T13:13:21.000Z</updated>
-        <content type="html"><![CDATA[<p>Behaviorism (early 19th - early 20th)<br>
-B.F. Skinner<br>
-how a student behaves is based on their interaction with their environment<br>
-learning consists of a change in behavior due to the acquisition, reinforcement, and application of associations between stimuli from the environment and observable responses of the individual<br>
-Positive reinforcement is a popular element of behaviorism—classical conditioning observed in Pavlov’s dog experiments suggests that behaviors are directly motivated by the reward obtained.<br>
-Thorndike, one major behaviorist theorist, put forward that (1) a response to a stimulus is reinforced when followed by a positive, rewarding effect, and (2) a response to a stimulus becomes stronger by exercise and repetition.<br>
-Cognitive Psychology Theory (1950s)<br>
-Plato, Descartes, Jean Piaget<br>
-People are no longer viewed as collections of responses to external stimuli, as understood by behaviorists, but as information processors.<br>
-Learning is understood as the acquisition of knowledge: the learner is an information-processor who absorbs information, undertakes cognitive operations, and stocks it in memory.<br>
-Analog with computer - another information processor.<br>
-Constructivism(1970s-1980s)<br>
-students actually create their own learning based on their previous experiences. Students take what they’re being taught and add it to their previous knowledge and experiences, creating a reality that’s unique to them<br>
-Therefore, learners are viewed as sense-makers, not simply recording given information but interpreting it. This view of learning led to the shift from the “knowledge-acquisition” to the “knowledge-construction” metaphor.<br>
-Jean Piaget and Jerome Bruner<br>
-One of them is: Learner-centred approach, whereby the teacher becomes a cognitive guide of the learner’s learning and not a knowledge transmitter.<br>
-Humanism<br>
-self-actualization<br>
-Self-actualization is at the top of the hierarchy of needs—it’s the brief moments where a person feels all of their needs are met and that they’re the best possible version of themselves.<br>
-Connectivism<br>
-Newest educational learning theories<br>
-people learn and grow when they form connections<br>
-This can be connections with each other or connections with their roles and obligations in their lives. Hobbies, goals, and people can all be connections that influence learning.<br>
-Transforming Learning Theory<br>
-a great approach for adult education and young adult learning<br>
-learners can adjust their thinking based on new information<br>
-Jack Mezirow: adults don’t apply their old understanding to new situations, and having a new perspective helps them gain a new understanding of things as they change.<br>
-students had important teaching, and learning opportunities connected to their past experiences, and that critical reflection and review could lead to a transformation of their understanding<br>
-Social Learning Theory<br>
-the concept of children learning from observing others by acting on or not acting on what they see exhibited by their classmates.<br>
-Albert Bandura<br>
-Experiential Learning Theory<br>
-Learning by doing<br>
-learn through experiences that can help them retain information and recall facts.<br>
-David Kolb, John Dewey, Kurt Lewin, and Jean Piaget.<br>
-Social-Constructivism (Late 20th)<br>
-the constructivist view of learning was further changed by the rise of the perspective of “situated cognition and learning” that emphasized the significant role of context, particularly social interaction<br>
-Multiple Intelligence (1983)<br>
-Howard Gardner<br>
-(1) logical-mathematical, (2) linguistic, (3) spatial, (4) musical, (5) bodily-kinesthetic, (6) interpersonal, and (7) intrapersonal.<br>
-Situated Learning Theory and Community of Practice<br>
-Jean Lave and Etienne Wenger<br>
-there is no learning which is not situated, and emphasizes the relational and negotiated character of knowledge and learning as well as the engaged nature of learning activity for the individuals involved.<br>
-21st Century Learning<br>
-core subjects (e.g. English, math, geography, history, civics) and 21st-century themes (global awareness, civic literacy, health literacy, environmental literacy, financial, business and entrepreneurial literacy); learning and innovation skills (creativity and innovation, critical thinking and problem solving, communication and collaboration); information, media and technology skills (e.g. ICT literacy, media literacy); and life and career skills (flexibility and adaptability, initiative and self-direction, social and cross-cultural skills, productivity and accountability, leadership and responsibility).<br>
-One main learning method that supports learning such skills and knowledge is group learning or thematic projects, which involves inquiry-based collaborative work that addresses real-world issues and questions.</p>
+        <updated>2022-05-01T15:31:25.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>设计类</li>
+</ul>
+<ol>
+<li>中国色 <a href="http://zhongguose.com/">http://zhongguose.com/</a></li>
+<li>Adobe Color <a href="https://color.adobe.com/zh/create/color-wheel">https://color.adobe.com/zh/create/color-wheel</a></li>
+</ol>
+<ul>
+<li>研究/数据类</li>
+</ul>
+<ol>
+<li>中国哲学书电子化 <a href="https://ctext.org/">https://ctext.org/</a></li>
+<li>世界银行（他们的open data很好用 但是被我发现了bug 哈哈哈 比如缅甸2007-2012 GDP赶英超美）<a href="https://data.worldbank.org/">https://data.worldbank.org/</a></li>
+<li>斯坦福social network analysis 数据库（很多奇怪的学霸...看起来像是图论研究所用的数据，不是我等学渣可以涉足的）</li>
+<li>欧盟数据 <a href="https://op.europa.eu/">https://op.europa.eu/</a></li>
+<li>维基百科social network analysis系统 <a href="https://query.wikidata.org/">https://query.wikidata.org/</a></li>
+<li>世界经贸组织（怀疑他们的open data table是和世界银行一拨人开发的 赞）<a href="https://www.wto.org/">https://www.wto.org/</a></li>
+<li>纽约数据（很全 基本都是政府数据 也很好用）<a href="https://opendata.cityofnewyork.us/">https://opendata.cityofnewyork.us/</a></li>
+<li>斯坦福哲学百科 <a href="https://plato.stanford.edu/">https://plato.stanford.edu/</a></li>
+</ol>
+<ul>
+<li>博物馆</li>
+</ul>
+<ol>
+<li>史密森尼学会 <a href="https://www.si.edu/">https://www.si.edu/</a> （他们的learning lab和online exhibition做得很不错）</li>
+</ol>
+<ul>
+<li>工具类</li>
+</ul>
+<ol>
+<li>短网站link生成器 <a href="https://bitly.com/a/sign_in?rd=/Blcle3QKhdV/bitlinks/3H2Sygt">https://bitly.com/a/sign_in?rd=/Blcle3QKhdV/bitlinks/3H2Sygt</a></li>
+<li>miro board 协作共享白板 <a href="https://miro.com/app/dashboard/">https://miro.com/app/dashboard/</a></li>
+<li>百老汇抽奖 <a href="https://www.luckyseat.com/shows/hadestown-newyork">https://www.luckyseat.com/shows/hadestown-newyork</a>；<a href="https://lottery.broadwaydirect.com/">https://lottery.broadwaydirect.com/</a></li>
+<li>SRT文件如何转word？ <a href="https://www.jianshu.com/p/6ae774d1a792">https://www.jianshu.com/p/6ae774d1a792</a></li>
+</ol>
+<ul>
+<li>工作</li>
+</ul>
+<ol>
+<li>高等教育 <a href="https://www.higheredjobs.com/">https://www.higheredjobs.com/</a></li>
+</ol>
+<ul>
+<li>学习</li>
+</ul>
+<ol>
+<li>MIT Media Lab course list 可以从这里探索更多...课程介绍，学生作品，etc...<a href="https://www.media.mit.edu/posts/2021-spring-media-arts-and-sciences-course-list/">https://www.media.mit.edu/posts/2021-spring-media-arts-and-sciences-course-list/</a></li>
+<li>Harvard graduate school of education... Course List 比哥大的数据公开做得好多了：）</li>
+</ol>
+<p><a href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&amp;SearchReqJSON=%7B%22ExcludeBracketed%22%3Atrue%2C%22SaveRecent%22%3Afalse%2C%22Facets%22%3A%5B%5D%2C%22PageNumber%22%3A1%2C%22SortOrder%22%3A%5B%22SCORE%22%5D%2C%22TopN%22%3A%22%22%2C%22PageSize%22%3A%22%22%2C%22SearchText%22%3A%22(%20(SUBJECT%3A%5C%22GENED%5C%22)%20(CRSE_ATTR_VALUE_HU_GE_ATTR%3A%5C%22STS%5C%22)%20(ACAD_CAREER%3A%5C%22FAS%5C%22)%20)">https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&amp;SearchReqJSON={&quot;ExcludeBracketed&quot;%3Atrue%2C&quot;SaveRecent&quot;%3Afalse%2C&quot;Facets&quot;%3A[]%2C&quot;PageNumber&quot;%3A1%2C&quot;SortOrder&quot;%3A[&quot;SCORE&quot;]%2C&quot;TopN&quot;%3A&quot;&quot;%2C&quot;PageSize&quot;%3A&quot;&quot;%2C&quot;SearchText&quot;%3A&quot;( (SUBJECT%3A&quot;GENED&quot;) (CRSE_ATTR_VALUE_HU_GE_ATTR%3A&quot;STS&quot;) (ACAD_CAREER%3A&quot;FAS&quot;)</a>%20(%20%20)%22%7D</p>
 ]]></content>
     </entry>
     <entry>
