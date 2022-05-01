@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sw3550.github.io</id>
+    <id>https://sw3550.Github.io</id>
     <title>ShiyaoWei</title>
-    <updated>2022-05-01T15:11:33.933Z</updated>
+    <updated>2022-05-01T15:13:28.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://sw3550.github.io"/>
-    <link rel="self" href="https://sw3550.github.io/atom.xml"/>
+    <link rel="alternate" href="https://sw3550.Github.io"/>
+    <link rel="self" href="https://sw3550.Github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://sw3550.github.io/images/avatar.png</logo>
-    <icon>https://sw3550.github.io/favicon.ico</icon>
+    <logo>https://sw3550.Github.io/images/avatar.png</logo>
+    <icon>https://sw3550.Github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, ShiyaoWei</rights>
     <entry>
         <title type="html"><![CDATA[ Learning Theories]]></title>
-        <id>https://sw3550.github.io/post/learning-theories/</id>
-        <link href="https://sw3550.github.io/post/learning-theories/">
+        <id>https://sw3550.Github.io/post/learning-theories/</id>
+        <link href="https://sw3550.Github.io/post/learning-theories/">
         </link>
         <updated>2022-05-01T13:13:21.000Z</updated>
         <content type="html"><![CDATA[<p>Behaviorism (early 19th - early 20th)<br>
@@ -66,8 +66,8 @@ One main learning method that supports learning such skills and knowledge is gro
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://sw3550.github.io/post/hello-gridea/</id>
-        <link href="https://sw3550.github.io/post/hello-gridea/">
+        <id>https://sw3550.Github.io/post/hello-gridea/</id>
+        <link href="https://sw3550.Github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
