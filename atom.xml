@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw3550.github.io</id>
-    <title>ShiyaoWei</title>
-    <updated>2022-05-02T07:13:32.752Z</updated>
+    <title>Shiyao Wei</title>
+    <updated>2022-05-02T07:38:49.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sw3550.github.io"/>
     <link rel="self" href="https://sw3550.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://sw3550.github.io/images/avatar.png</logo>
     <icon>https://sw3550.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, ShiyaoWei</rights>
+    <rights>All rights reserved 2022, Shiyao Wei</rights>
     <entry>
         <title type="html"><![CDATA[ Direct Instruction Revisited: A Key Model for Instructional Tech @Mahiaro, Lockee, & Burton]]></title>
         <id>https://sw3550.github.io/post/direct-instruction-revisited-a-key-model-for-instructional-tech-mahiaro-lockee-and-burton/</id>
