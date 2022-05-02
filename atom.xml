@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw3550.github.io</id>
     <title>ShiyaoWei</title>
-    <updated>2022-05-02T05:29:51.364Z</updated>
+    <updated>2022-05-02T05:47:12.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sw3550.github.io"/>
     <link rel="self" href="https://sw3550.github.io/atom.xml"/>
@@ -10,6 +10,73 @@
     <logo>https://sw3550.github.io/images/avatar.png</logo>
     <icon>https://sw3550.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, ShiyaoWei</rights>
+    <entry>
+        <title type="html"><![CDATA[ Perceptual Learning @Robert L. Goldstone]]></title>
+        <id>https://sw3550.github.io/post/perceptual-learning-robert-l-goldstone/</id>
+        <link href="https://sw3550.github.io/post/perceptual-learning-robert-l-goldstone/">
+        </link>
+        <updated>2022-05-02T05:35:33.000Z</updated>
+        <content type="html"><![CDATA[<!-- wp:separator {"opacity":"css"} -->
+<hr class="wp-block-separator has-css-opacity"/>
+<!-- /wp:separator -->
+<!-- wp:paragraph -->
+<p><strong>Definition of Perceptual Learning</strong></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Relatively long-lasting changes to an organism's perceptual system that improve its ability to respond to its environment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><strong>Four mechanisms of perceptual learning</strong></p>
+<!-- /wp:paragraph -->
+<!-- wp:list {"ordered":true} -->
+<ol><li>Attention weighting: perception becomes adapted to tasks and environments by increasing attention to important dimensions and features.</li><li>Imprinting: receptors are developed that are specialized for stimuli or parts of stimuli.</li><li>Differentiation: stimuli that were once indistinguishable become psychologically separated.</li><li>Unitization: tasks that originally required the detection of several parts are accomplished by detecting a single constructed unit representing a complex configuration.</li></ol>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p><strong>Challenge for Definition</strong></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Distinguish between perceptual learning and higher-level cognitive learning.</p>
+<!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul><li><strong>Categorical Perception</strong></li></ul>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p>A phenomenon for attentional accounts of perceptual adaption. People can distinguish between physically different stimuli when the stimuli come from different categories than when they come from the same category.</p>
+<!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul><li><strong>Whole stimulus storage</strong></li></ul>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p>Imprinting may occur for entire stimuli, where a receptor develops that internalizes specific instances.</p>
+<!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul><li><strong>Feature Imprinting</strong></li></ul>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p>There is also evidence that people imprint on parts or features of a stimulus. If a stimulus part is important, varies independently of other parts, or occurs frequently, people may develop a specialized detector for that part. - building block</p>
+<!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul><li><strong>Topological Imprinting</strong></li></ul>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p>It occurs at a more abstract level. Environmental regularities that span across a set of stimuli can also be internalized. It occurs when the space and positions of patterns within the space are learned due to training with patterns.</p>
+<!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul><li><strong>Differentiation of Whole Stimuli</strong></li></ul>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p>simple preexposure.</p>
+<!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul><li><strong>Psychological Differentiation</strong></li><li><strong>Differentiation of Complex Stimuli</strong></li><li><strong>Differentiation of Categories</strong></li><li><strong>Differentiation of Dimensions</strong></li></ul>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p><strong>Limitation and Potential</strong></p>
+<!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul><li>Constraints on generalization</li><li>Whether it occurs at all</li><li>Is always constrained by the existing structure of organism</li><li>It remains an important source of human flexibility</li></ul>
+<!-- /wp:list -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好用/有意思的网站/工具]]></title>
         <id>https://sw3550.github.io/post/hao-yong-you-yi-si-de-wang-zhan-gong-ju/</id>
