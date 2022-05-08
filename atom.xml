@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw3550.github.io</id>
     <title>Shiyao Wei</title>
-    <updated>2022-05-08T09:01:14.417Z</updated>
+    <updated>2022-05-08T09:09:51.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sw3550.github.io"/>
     <link rel="self" href="https://sw3550.github.io/atom.xml"/>
@@ -184,39 +184,43 @@ IRB Training，bilibili内容构思，SEL课程workbook写案例。</p>
         <link href="https://sw3550.github.io/post/direct-instruction-revisited-a-key-model-for-instructional-tech-mahiaro-lockee-and-burton/">
         </link>
         <updated>2022-05-02T05:54:45.000Z</updated>
-        <content type="html"><![CDATA[<p>Purpose: present the DI model with the notion that the designer can and should use the model effectively based on an appropriate assessment of the learners, content, context, and task at hand.<br>
-Behavioral theory. Key components: modeling, reinforcement, feedback, and successive approximations. - Modeling with reinforced guided performance.<br>
-Preassumption:<br>
+        <content type="html"><![CDATA[<p><strong>Purpose</strong><br>
+Present the DI model with the notion that the designer can and should use the model effectively based on an appropriate assessment of the learners, content, context, and task at hand.<br>
+<strong>Behavioral theory</strong><br>
+Key components: modeling, reinforcement, feedback, and successive approximations. - Modeling with reinforced guided performance.<br>
+<strong>Preassumption</strong><br>
 Physical characteristics evolve or are selected by the environment. (Behaviorism)<br>
 Those working behaviors are selected by the consequences that follow the behavior.<br>
 Learners must be active (behaving) to learn.<br>
 Learning is universal, in the sense that selectionist principles are involved in learning planaria to people...<br>
-Behaviorally based models reject logical positivism, mentalists such as mind, and free will. - passionate reactions. Presumption<br>
-Shared key components:<br>
+Behaviorally based models reject logical positivism, mentalists such as mind, and free will. - passionate reactions.</p>
+<p><strong>Shared key components</strong><br>
 Materials and curriculum are broken down into small steps<br>
 The objective must be stated clearly and in terms of learner outcomes or performance<br>
 Learners are provided with opportunities to connect their new knowledge with what they already know<br>
 Learners are given practice with each step or combination of steps<br>
 Learners experience additional opportunities to practice that promotes increasing responsibility and independence<br>
-Feedback is provided after each practice opportunity or set of practice opportunities.<br>
-Three-Steps<br>
+Feedback is provided after each practice opportunity or set of practice opportunities.</p>
+<ul>
+<li>Three-Steps<br>
 Introduction<br>
 The main presentation of the lesson<br>
-Practice<br>
-Teaching models<br>
+Practice</li>
+</ul>
+<p><strong>Teaching models</strong><br>
 Engelmann's DI model<br>
 Rosenshine's Explicit Teaching model<br>
 Good &amp; Grow's Strategies for effective Teaching model<br>
 Hunter's Design of Effective lesson model<br>
-Gagne's events of instruction model<br>
-Introduction:<br>
+Gagne's events of instruction model</p>
+<p><strong>Introduction</strong><br>
 Gaining attention - auditory and visual stimuli<br>
 informing the learner of the objective - appropriate media types<br>
-Main presentation:<br>
+<strong>Main presentation</strong><br>
 Stimulating recall of prerequisite learning - quizzing or assessment tools<br>
 presenting the stimulus materials - appropriate media types<br>
 providing learner guidance<br>
-Practice:<br>
+<strong>Practice</strong><br>
 Eliciting the performance - teacher-led through telecommunication or self-paced through computer-based interactions.<br>
 Providing feedback with performance correctness, assessing the performance, enhancing retention and transfer.</p>
 ]]></content>
