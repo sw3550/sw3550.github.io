@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>About | Shiyao Wei</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://sw3550.github.io/favicon.ico?v=1709146791304">
+<link rel="stylesheet" href="https://sw3550.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="
+It's a nice day! Let's study together. XD
+
+👨‍💻 Who I am
+📢Important:
+Health 🏃🏻‍♀️
+Love ❤️
+Curiosity 🐱
+Not importan..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://sw3550.github.io">
+        <img src="https://sw3550.github.io/images/avatar.png?v=1709146791304" class="site-logo">
+        <h1 class="site-title">Shiyao Wei</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            Home Page
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            Archives
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            Tags
+          </a>
+        
+      
+        
+          <a href="https://sw3550.github.io/post/curriculum-vitae" class="site-nav">
+            CV
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            About
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      Learning is delicious!
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://sw3550.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">About</h2>
+            <div class="post-date">01/23/2019</div>
+            
+            <div class="post-content" v-pre>
+              <blockquote>
+<p>It's a nice day! Let's study together. XD</p>
+</blockquote>
+<h2 id="who-i-am">👨‍💻 Who I am</h2>
+<p>📢<strong>Important:</strong><br>
+Health 🏃🏻‍♀️<br>
+Love ❤️<br>
+Curiosity 🐱</p>
+<p><strong>Not important:</strong><br>
+PhD student in Instructional System &amp; Learning Technologies @Florida State University<br>
+M.A. in museum education @ Teachers College, Columbia University<br>
+B.A. in Marketing @ Communication University of China</p>
+<h2 id="like-dislike">⛹ Like &amp; Dislike</h2>
+<p>-Like-<br>
+Color: 🔶🔶🔶<br>
+Book:<br>
+<em>Foundation</em> series by Isaac Asimov<br>
+<em>Middlemarch</em> by Elliot<br>
+<em>Of Human Bondage</em> by Maugham</p>
+<p>Film:<br>
+Many from Tim Burton except <em>Batman</em></p>
+<p>-Dislike-<br>
+This section is not ready.</p>
+<h2 id="contact-me">📬 Contact Me</h2>
+<p>📪Email: sw22b@fsu.edu<br>
+🐦Twitter: @SY_Wei07</p>
+
+            </div>
+            
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'f8e09a6580f0c3fa7fb9',
+        clientSecret: '382f59a38bddb929265931c08fe64c63cf922768',
+        repo: 'sw3550.github.io',
+        owner: 'sw3550',
+        admin: ['sw3550'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

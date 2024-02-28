@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sw3550.github.io</id>
+    <title>Shiyao Wei</title>
+    <updated>2024-02-28T18:59:56.277Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sw3550.github.io"/>
+    <link rel="self" href="https://sw3550.github.io/atom.xml"/>
+    <subtitle>Learning is delicious!</subtitle>
+    <logo>https://sw3550.github.io/images/avatar.png</logo>
+    <icon>https://sw3550.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Shiyao Wei</rights>
+    <entry>
+        <title type="html"><![CDATA[Writing Challenge in November]]></title>
+        <id>https://sw3550.github.io/post/SQlV6a0YZ/</id>
+        <link href="https://sw3550.github.io/post/SQlV6a0YZ/">
+        </link>
+        <updated>2023-11-02T02:42:46.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EME6414 Week 9 #1 Thoughts After Knowledge Sharing Activity]]></title>
+        <id>https://sw3550.github.io/post/Tn7RzIVa1/</id>
+        <link href="https://sw3550.github.io/post/Tn7RzIVa1/">
+        </link>
+        <updated>2023-07-15T17:55:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge sharing activities - museums in DC]]></title>
+        <id>https://sw3550.github.io/post/uOFKy7QSs/</id>
+        <link href="https://sw3550.github.io/post/uOFKy7QSs/">
+        </link>
+        <updated>2023-06-28T18:52:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EME6414 Week 6 #3 The Feeling of Weak Tie in Social Media]]></title>
+        <id>https://sw3550.github.io/post/fnKjq14Ld/</id>
+        <link href="https://sw3550.github.io/post/fnKjq14Ld/">
+        </link>
+        <updated>2023-06-24T15:36:24.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EME6414 Week 6 #2 Reddit and its Protest]]></title>
+        <id>https://sw3550.github.io/post/gKXeQzC94/</id>
+        <link href="https://sw3550.github.io/post/gKXeQzC94/">
+        </link>
+        <updated>2023-06-21T16:16:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EME6414 Week 6 #1 Miro and more educational software]]></title>
+        <id>https://sw3550.github.io/post/xCKkP-4Se/</id>
+        <link href="https://sw3550.github.io/post/xCKkP-4Se/">
+        </link>
+        <updated>2023-06-21T04:14:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EME6414 Week 4 #2 Extending the Discussion: Entropy, Tagging and Crowdsourcing Together]]></title>
+        <id>https://sw3550.github.io/post/eY1PivqUL/</id>
+        <link href="https://sw3550.github.io/post/eY1PivqUL/">
+        </link>
+        <updated>2023-06-04T13:37:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EME6414 Week 2 #3 Hived Mind, Collective Intelligence, and Sci-Fi. ]]></title>
+        <id>https://sw3550.github.io/post/qfeBPq686/</id>
+        <link href="https://sw3550.github.io/post/qfeBPq686/">
+        </link>
+        <updated>2023-05-23T15:03:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research Paradigms -> Methodology -> Design -> Methods]]></title>
+        <id>https://sw3550.github.io/post/IvNGmzmta/</id>
+        <link href="https://sw3550.github.io/post/IvNGmzmta/">
+        </link>
+        <updated>2022-11-18T22:59:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seminal literature and more...]]></title>
+        <id>https://sw3550.github.io/post/Yj9ZWIOsj/</id>
+        <link href="https://sw3550.github.io/post/Yj9ZWIOsj/">
+        </link>
+        <updated>2022-11-14T18:09:15.000Z</updated>
+    </entry>
+</feed>

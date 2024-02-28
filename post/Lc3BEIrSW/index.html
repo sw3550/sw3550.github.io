@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>EME6414 Week 10 #3 Web 2.0 and Social Life: Are we looking for more interactions with others? | Shiyao Wei</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://sw3550.github.io/favicon.ico?v=1709146791304">
+<link rel="stylesheet" href="https://sw3550.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="This past weekend, I made a conscious decision to break away from my usual routine of scrolling through social media fee..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://sw3550.github.io">
+        <img src="https://sw3550.github.io/images/avatar.png?v=1709146791304" class="site-logo">
+        <h1 class="site-title">Shiyao Wei</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            Home Page
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            Archives
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            Tags
+          </a>
+        
+      
+        
+          <a href="https://sw3550.github.io/post/curriculum-vitae" class="site-nav">
+            CV
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            About
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      Learning is delicious!
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://sw3550.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">EME6414 Week 10 #3 Web 2.0 and Social Life: Are we looking for more interactions with others?</h2>
+            <div class="post-date">07/22/2023</div>
+            
+            <div class="post-content" v-pre>
+              <p>This past weekend, I made a conscious decision to break away from my usual routine of scrolling through social media feeds and attending virtual events. Instead, I opted to join a few in-person gatherings with friends and acquaintances. The impact of this decision turned out to be transformative, revealing how real-life interactions can profoundly influence our online relationships.</p>
+<p>As I met people face-to-face, shared laughter, and exchanged stories, I noticed how these authentic connections had a ripple effect on my virtual presence. The bonds forged during those gatherings made me genuinely interested in my friends' lives beyond the screen. I found myself reaching out more often, commenting on their posts with sincerity, and engaging in meaningful discussions in group chats. The virtual world became an extension of our real-life camaraderie, fostering deeper connections rather than being a mere space for casual interactions.</p>
+<p>So, does Web 2.0 encourage us to seek more connections with others? From my perspective as an extrovert, the answer is a resounding yes. I find solace in the energy that comes from connecting with others, both online and offline. While virtual interactions undoubtedly play a significant role in our fast-paced world, I believe that balancing them with face-to-face interactions is crucial for cultivating authentic and meaningful relationships.</p>
+<p>Compared to our parents, we are experiencing an abundance of opportunities, akin to a cultural experiment. Unlike them, we have the freedom to choose where to live and with whom to live. Most of our parents were confined to a restricted area - born, studied, worked, married, and will retire in the same place. For me, I couldn't fathom the idea of spending my entire life confined to one location. While Web 2.0 may not be the sole factor changing my life, it certainly provides access to the outside world and expands our horizons beyond physical boundaries.</p>
+
+            </div>
+            
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'f8e09a6580f0c3fa7fb9',
+        clientSecret: '382f59a38bddb929265931c08fe64c63cf922768',
+        repo: 'sw3550.github.io',
+        owner: 'sw3550',
+        admin: ['sw3550'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>
